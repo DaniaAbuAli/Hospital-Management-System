@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Hospital Management System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD8E2420-5A2D-4BE5-AF5A-F9531083873A}|Hospital Management System\\Hospital Management System.csproj|c:\\users\\hp\\source\\repos\\hospital management system\\hospital management system\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CD8E2420-5A2D-4BE5-AF5A-F9531083873A}|Hospital Management System\\Hospital Management System.csproj|solutionrelative:hospital management system\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD8E2420-5A2D-4BE5-AF5A-F9531083873A}|Hospital Management System\\Hospital Management System.csproj|c:\\users\\hp\\source\\repos\\hospital management system\\hospital management system\\entities\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD8E2420-5A2D-4BE5-AF5A-F9531083873A}|Hospital Management System\\Hospital Management System.csproj|solutionrelative:hospital management system\\entities\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,6 +63,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Hospital Management System\\Hospital Management System\\.gitignore",
+              "RelativeDocumentMoniker": "Hospital Management System\\.gitignore",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Hospital Management System\\Hospital Management System\\.gitignore",
+              "RelativeToolTip": "Hospital Management System\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-09-05T16:34:22.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Prescription.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Hospital Management System\\Hospital Management System\\Entities\\Prescription.cs",
               "RelativeDocumentMoniker": "Hospital Management System\\Entities\\Prescription.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Hospital Management System\\Hospital Management System\\Entities\\Patient.cs",
               "RelativeDocumentMoniker": "Hospital Management System\\Entities\\Patient.cs",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Medication.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Hospital Management System\\Hospital Management System\\Entities\\Medication.cs",
               "RelativeDocumentMoniker": "Hospital Management System\\Entities\\Medication.cs",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Hospital Management System\\Hospital Management System\\Entities\\Doctor.cs",
               "RelativeDocumentMoniker": "Hospital Management System\\Entities\\Doctor.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Bill.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Hospital Management System\\Hospital Management System\\Entities\\Bill.cs",
               "RelativeDocumentMoniker": "Hospital Management System\\Entities\\Bill.cs",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Hospital Management System\\Hospital Management System\\Entities\\Appointment.cs",
               "RelativeDocumentMoniker": "Hospital Management System\\Entities\\Appointment.cs",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "20250904141611_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Hospital Management System\\Hospital Management System\\Migrations\\20250904141611_InitialCreate.cs",
               "RelativeDocumentMoniker": "Hospital Management System\\Migrations\\20250904141611_InitialCreate.cs",
@@ -143,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20250904140712_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Hospital Management System\\Hospital Management System\\Migrations\\20250904140712_InitialCreate.cs",
               "RelativeDocumentMoniker": "Hospital Management System\\Migrations\\20250904140712_InitialCreate.cs",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20250904140135_AddTables.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Hospital Management System\\Hospital Management System\\Migrations\\20250904140135_AddTables.cs",
               "RelativeDocumentMoniker": "Hospital Management System\\Migrations\\20250904140135_AddTables.cs",
@@ -167,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "20250904134259_AddTables.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Hospital Management System\\Hospital Management System\\Migrations\\20250904134259_AddTables.cs",
               "RelativeDocumentMoniker": "Hospital Management System\\Migrations\\20250904134259_AddTables.cs",
